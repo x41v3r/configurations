@@ -1,0 +1,46 @@
+colors:
+  primary:
+    background: "#000000"
+    # background: "#1e2127"
+    # background: "#2E3440"
+    foreground: "#D8DEE9"
+
+  normal:
+    black: "#1e2127"
+    blue: '#11b5f6'
+    red: '#ff0000'
+    green: "#90ff00"
+    yellow: "#Ebdf8B"
+    magenta: "#B48EAD"
+    cyan: "#88C0D0"
+    white: "#ffffff"
+
+  bright:
+    black: "#5c6370"
+    red: "#e06c75"
+    green: "#98c379"
+    yellow: "#d19a66"
+    blue: "#61afef"
+    magenta: "#c678dd"
+    cyan: "#56b6c2"
+    white: "#ECEFF4"
+  
+font:
+  normal:
+    family: "Source Code Pro"
+    style: Regular
+  bold:
+    family: "Source Code Pro"
+    style: Bold
+  italic:
+    family: "Source Code Pro"
+    style: Italic
+  bold_italic:
+    family: "Source Code Pro"
+    style: Bold Italic
+  size: 10.0 
+
+window:
+  padding:
+    x: 0
+    y: 0
