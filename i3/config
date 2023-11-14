@@ -24,11 +24,13 @@ font pango:monospace 8
 exec --no-startup-id dex --autostart --environment i3
 
 exec --no-startup-id ~/.config/polybar/launch.sh
-exec --no-startup-id feh --bg-fill ~/contours.jpg
+# exec --no-startup-id feh --bg-fill ~/contours.jpg
 
-exec --no-startup-id fcitx
+# exec --no-startup-id fcitx
 
-exec --no-startup-id xset -dpms
+# exec --no-startup-id xset -dpms
+
+exec --no-startup-id nitrogen --restore
 
 new_window none
 new_float normal
